@@ -1,0 +1,2 @@
+# LeapYearIdentifier
+Java program to take an inputted year from user and inform them whether it is a leap year or not. The logic of the if statements fits the following criteria: It is a leap year if the year is divisible by 4 but not by 100 (i.e. 1796 is a leap year because it is divisible by 4 but not by 100).  A year that is divisible by both 4 and 100 is a leap year if it is also divisible by 400 (i.e. 2000 is a leap year but 1800 is not).
